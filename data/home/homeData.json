@@ -1,0 +1,98 @@
+{
+  "bannerlData": [
+    {
+      "header": "MVC Subscription",
+      "content": "Your go to movie Membership Program"
+    }
+  ],
+  "realDealData": [
+    {
+      "img": "/Home/Icons/real-deal-icon.webp",
+      "alt": "Real Deal Icon",
+      "width": "105",
+      "height": "55",
+      "header": "Real Deal Monthly Movies",
+      "content": "Your flexible monthly membership to the latest movies"
+    }
+  ],
+  "mvcSubsData": [
+    {
+      "header": "What is MVP Subscription?",
+      "timelineData": [
+        {
+          "tl": "1",
+          "content": "MVP Subscription provides the member 1 movie credit per month"
+        },
+        {
+          "tl": "2",
+          "content": "They can avail it at any Marcus theatre or Movie Tavern"
+        },
+        {
+          "tl": "3",
+          "content": "Member earn 100 points and get a <span class='icon-font'>$</span>5 reward redeemable on food <span class='icon-font'>&</span> beverages <span class='icon-font'>+</span> many more benefits"
+        }
+      ]
+    }
+  ],
+  "cardData": [
+    {
+      "styles": "col-md-4 col-6 p-2",
+      "img": "/Home/Icons/creditPerMonth.webp",
+      "alt": "Credit Per Month Icon",
+      "width": "56",
+      "height": "56",
+      "header": "1 credit per month",
+      "content": "One 2D standard movie per month<sup>1</sup>"
+    },
+    {
+      "styles": "col-md-5 col-6 p-2",
+      "img": "/Home/Icons/rolloverOfUnusedCredits.webp",
+      "alt": "Rollover Of Unused Credits Icon",
+      "width": "70",
+      "height": "56",
+      "header": "Free rollover of unused credits",
+      "content": "Unused credits will be combined the following month"
+    },
+    {
+      "styles": "col-md-3 col-6 p-2",
+      "img": "/Home/Icons/MMRPerks.webp",
+      "alt": "MMR Perks Icon",
+      "width": "56",
+      "height": "36",
+      "header": "All MMR perks included",
+      "content": "<span class='icon-font'>+</span> benefits"
+    },
+    {
+      "styles": "col-md-3 col-6 p-2",
+      "img": "/Home/Icons/Flexible.webp",
+      "alt": "Flexible Icon",
+      "width": "55",
+      "height": "35",
+      "header": "100% Flexible",
+      "content": "Cancel anytime<sup>2</sup>"
+    },
+    {
+      "styles": "col-md-5 col-6 p-2",
+      "img": "/Home/Icons/discountOnFood.webp",
+      "alt": "Discount On Food Icon",
+      "width": "56",
+      "height": "56",
+      "header": "20% Discount on all Food and Beverages",
+      "content": "Excluding alcohol"
+    },
+    {
+      "styles": "col-md-4 col-6 p-2",
+      "img": "/Home/Icons/convenienceFee.webp",
+      "alt": "Convenience Fee Icon",
+      "width": "56",
+      "height": "51",
+      "header": "0 Convenience Fee",
+      "content": "Waived on all days on any tickets purchase"
+    }
+  ],
+  "noteData": [
+    {
+      "content": "<sup>1</sup>Excludes IMAX and DBOX formats. No fees apply to Passport Credits only. Other fees apply to full priced tickets.<br /><br /> <sup>2</sup>Excludes alcoholic beverages."
+    }
+  ]
+}

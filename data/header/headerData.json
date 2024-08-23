@@ -1,0 +1,68 @@
+{
+  "menuItems": [
+    {
+      "title": "Placeholder Title 1",
+      "links": [
+        {
+          "name": "Title 1 Submenu 1",
+          "url": "/title1submenu1"
+        },
+        {
+          "name": "Title 1 Submenu 2",
+          "url": "/title1submenu2"
+        },
+        {
+          "name": "Title 1 Submenu 3",
+          "url": "/title1submenu3"
+        }
+      ]
+    },
+    {
+      "title": "Placeholder Title 2",
+      "links": [
+        {
+          "name": "Title 2 Submenu 1",
+          "url": "/title2submenu1"
+        },
+        {
+          "name": "Title 2 Submenu 2",
+          "url": "/title2submenu2"
+        },
+        {
+          "name": "Title 2 Submenu 3",
+          "url": "/title2submenu3"
+        }
+      ]
+    },
+    {
+      "title": "Placeholder Title 3",
+      "links": [
+        {
+          "name": "Title 3 Submenu 1",
+          "url": "/title3submenu1"
+        },
+        {
+          "name": "Title 3 Submenu 2",
+          "url": "/title3submenu2"
+        },
+        {
+          "name": "Title 3 Submenu 3",
+          "url": "/title3submenu3"
+        }
+      ]
+    }
+  ],
+  "signIn": {
+    "src": "/Home/Icons/user.png",
+    "alt": "User Icon",
+    "width": "32",
+    "height": "33",
+    "text": "Sign In"
+  },
+  "signInMob": {
+    "src": "/Home/Icons/Home.webp",
+    "alt": "Home Icon",
+    "width": "32",
+    "height": "32"
+  }
+}
